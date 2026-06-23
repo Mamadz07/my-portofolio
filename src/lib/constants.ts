@@ -61,21 +61,21 @@ export const HERO_STATS = [
 ];
 
 export const SOCIAL_LINKS = {
-  github: "https://github.com/yourusername",
+  github: "https://github.com/Mamadz07",
 
-  linkedin: "https://linkedin.com/in/yourusername",
+  linkedin: "https://linkedin.com/in/muhammad-ilham",
 
-  instagram: "https://instagram.com/yourusername",
+  instagram: "https://instagram.com/arfan_ham077",
 
-  whatsapp: "https://wa.me/628123456789",
+  whatsapp: "https://wa.me/6285732596183",
 
-  email: "mailto:your-email@gmail.com",
+  email: "mailto:muhammadilham3025@gmail.com",
 };
 
 export const CONTACT_INFO = {
-  email: "your-email@gmail.com",
+  email: "muhammadilham3025@gmail.com",
 
-  phone: "+62 812 3456 7890",
+  phone: "+62 857 3259 6183",
 
   location: "Indonesia",
 
