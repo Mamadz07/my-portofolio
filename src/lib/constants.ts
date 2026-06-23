@@ -85,6 +85,7 @@ export const CONTACT_INFO = {
 export const SKILL_CATEGORIES = [
   {
     title: "Frontend",
+    description: "Building modern and interactive user interfaces.",
     skills: [
       "React",
       "Next.js",
@@ -93,9 +94,9 @@ export const SKILL_CATEGORIES = [
       "Tailwind CSS",
     ],
   },
-
   {
     title: "Backend",
+    description: "Creating scalable APIs and server-side applications.",
     skills: [
       "Node.js",
       "Express.js",
@@ -103,18 +104,18 @@ export const SKILL_CATEGORIES = [
       "Laravel",
     ],
   },
-
   {
     title: "Database",
+    description: "Managing structured and scalable data systems.",
     skills: [
       "MySQL",
       "PostgreSQL",
       "MongoDB",
     ],
   },
-
   {
     title: "Tools",
+    description: "Development and productivity ecosystem.",
     skills: [
       "Git",
       "GitHub",
