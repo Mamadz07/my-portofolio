@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Geist } from "next/font/google";
-
+import CursorTrail from "@/components/animations/CursorTrail";
 import "./globals.css";
 
 const inter = Inter({
@@ -71,6 +71,8 @@ export default function RootLayout({
           overflow-x-hidden
         `}
       >
+         <CursorTrail />
+  {children}
         {children}
       </body>
     </html>
